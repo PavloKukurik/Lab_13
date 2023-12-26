@@ -6,6 +6,6 @@ public class Main {
     @SneakyThrows
     public static void main(String[] args) {
         PDLReader pdl = new PDLReader();
-        pdl.parse("https://github.com/shrksv/laba13");
+        pdl.parse("https://github.com/PavloKukurik/Lab_13");
     }
 }
